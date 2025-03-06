@@ -7,6 +7,6 @@ public class AppTest {
 
     @Test
     public void testGenerateKey() {
-        assertNotNull(Utils.generateKey());
+        assertNotNull(Utils.generateKey());;
     }
 }
